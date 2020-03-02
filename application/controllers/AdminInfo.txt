@@ -1,0 +1,3 @@
+userid,username,adminid,firstname,lastname,userpass,ucontact,hopecounts
+ali@admin,1,Ali asger,Sir,Ali123,7676680678,5
+3,fakhruddin@admin,2,Fakhruddin,Tahery,Fak123,7676680456,3

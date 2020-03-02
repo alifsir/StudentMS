@@ -1,0 +1,7 @@
+username,userauth
+ali@admin,admin
+hozefa@student,student
+fakhruddin@admin,admin
+ismail@student,student
+arwa@teacher,teacher
+batul@teacher,teacher

@@ -1,0 +1,7 @@
+userid,username,firstname,lastname,userpass,userauth,ucontact
+1,ali@admin,Ali asger,Sir,Ali123,admin,7676680678
+2,hozefa@student,Huzefa,Saeed,Huz123,student,7676680678
+3,fakhruddin@admin,Fakhruddin,Tahery,Fak123,admin,7676680456
+4,ismail@student,Ismail,Badri,Ism123,student,7676680678
+5,arwa@teacher,Arwa,Miyaji,Arw123,teacher,7676680321
+6,batul@teacher,Batul,Bhukhiya,Bat123,teacher,7676680543
